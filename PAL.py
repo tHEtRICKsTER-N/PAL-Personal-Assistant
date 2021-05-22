@@ -1,4 +1,4 @@
-#HERE ARE YOUR GODDMAN IMPORTS , WHY DON'T YOU SHOVE IT IN YOUR ASS ? BITCH !
+#HERE ARE YOUR GODDMAN IMPORTS 
 import pyttsx3
 import datetime
 import speech_recognition as sr
